@@ -1,0 +1,3 @@
+# Denegar acceso a todos los archivos en la carpeta private
+Order Deny,Allow
+Deny from all
